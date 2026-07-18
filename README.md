@@ -1,4 +1,4 @@
-# 🤖 Otto Ninja Retroescavadeira
+# Otto Ninja Retroescavadeira
 
 ## Projeto Acadêmico – Universidade do Estado da Bahia (UNEB)
 
@@ -6,7 +6,7 @@ O **Otto Ninja Retroescavadeira** é um projeto de robótica educacional desenvo
 
 Desenvolvido com a plataforma **ESP32**, o projeto integra eletrônica, programação, modelagem 3D e impressão 3D, proporcionando uma aplicação prática dos conhecimentos adquiridos durante a graduação.
 
-## 🎯 Objetivos
+# Objetivos
 
 * Desenvolver um robô móvel baseado no Otto Ninja.
 * Adaptar o robô para o formato de uma retroescavadeira funcional.
@@ -14,7 +14,7 @@ Desenvolvido com a plataforma **ESP32**, o projeto integra eletrônica, programa
 * Integrar sensores para ampliar as funcionalidades e possibilitar futuras aplicações em navegação e estabilidade.
 * Aplicar conceitos de programação embarcada, automação e robótica em um projeto interdisciplinar.
 
-## ⚙️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 * ESP32
 * Linguagem C++
@@ -26,7 +26,7 @@ Desenvolvido com a plataforma **ESP32**, o projeto integra eletrônica, programa
 * Fusion 360
 * Git e GitHub
 
-## 🚜 Funcionalidades
+# Funcionalidades
 
 * Locomoção do robô.
 * Movimentos característicos do Otto Ninja.
@@ -35,14 +35,14 @@ Desenvolvido com a plataforma **ESP32**, o projeto integra eletrônica, programa
 * Monitoramento de orientação e inclinação por meio do sensor IMU 360°.
 * Estrutura modular para futuras expansões e melhorias.
 
-## 📁 Estrutura do Repositório
+# Estrutura do Repositório
 
 * **/Codigo** – Código-fonte do projeto.
 * **/Modelos_3D** – Arquivos para impressão 3D.
 * **/Documentacao** – Relatórios e documentação técnica.
 * **/Imagens** – Fotos e ilustrações do projeto.
 
-## 👨‍💻 Equipe
+# Equipe
 
 Projeto desenvolvido pelos estudantes da **Universidade do Estado da Bahia (UNEB)**:
 
@@ -55,13 +55,13 @@ Projeto desenvolvido pelos estudantes da **Universidade do Estado da Bahia (UNEB
 **Instituição:** Universidade do Estado da Bahia (UNEB)
 **Ano:** 2026
 
-## 📚 Finalidade
+# Finalidade
 
 Este repositório reúne toda a documentação do desenvolvimento do **Otto Ninja Retroescavadeira**, incluindo códigos-fonte, modelos tridimensionais, documentação técnica e materiais de apoio. O objetivo é compartilhar conhecimento, incentivar o aprendizado em robótica educacional e servir como referência para futuros projetos acadêmicos.
 
 ---
 
-### 🚀 Futuras Implementações
+# Futuras Implementações
 
 * Controle via Bluetooth e Wi-Fi utilizando o ESP32.
 * Aplicativo para controle remoto.
